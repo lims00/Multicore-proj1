@@ -1,0 +1,2 @@
+module Multicoreproject_01 {
+}
